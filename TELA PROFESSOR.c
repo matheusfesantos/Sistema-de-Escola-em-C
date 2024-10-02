@@ -9,7 +9,7 @@ void TelaProfessor(){
                 printf("[ALUNOS]- 1");
                 printf("\n[SALAS] -2");
                 printf(("\n[BOLETIM]- 3"));
-                printf("\nInforme: ")
+                printf("\nInforme: ");
                 scanf("%d", funcao);
 
                 if(funcao == 1) {
